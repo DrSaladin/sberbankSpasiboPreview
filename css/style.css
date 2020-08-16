@@ -996,8 +996,8 @@ main {
     padding: 0;
   }
   .coord-select__link {
-    margin-bottom: 0;
     display: block;
+    margin-bottom: 0;
   }
 }
 .page-footer {
@@ -1400,9 +1400,9 @@ main {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 .location-cards__item {
   max-width: 377px;
