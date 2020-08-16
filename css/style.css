@@ -996,7 +996,7 @@ main {
     padding: 0;
   }
   .coord-select__link {
-    margin-bottom: 30px;
+    margin-bottom: 0;
     display: block;
   }
 }
